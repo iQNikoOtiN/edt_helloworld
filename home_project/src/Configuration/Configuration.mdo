@@ -38,5 +38,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Товары</catalogs>
 </mdclass:Configuration>
