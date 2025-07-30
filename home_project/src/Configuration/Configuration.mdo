@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.СкладПоУмолчанию</constants>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.ПриобретениеТоваров</documents>
