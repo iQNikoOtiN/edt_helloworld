@@ -44,5 +44,6 @@
   <catalogs>Catalog.Справочник_Вяся</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <catalogs>Catalog.ФизическиеЛица</catalogs>
+  <documents>Document.Документ_Вася</documents>
   <documents>Document.ПриобретениеТоваров</documents>
 </mdclass:Configuration>
