@@ -40,4 +40,5 @@
   </languages>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Товары</catalogs>
+  <documents>Document.ПриобретениеТоваров</documents>
 </mdclass:Configuration>
