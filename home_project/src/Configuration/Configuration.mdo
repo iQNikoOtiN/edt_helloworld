@@ -46,4 +46,5 @@
   <catalogs>Catalog.ФизическиеЛица</catalogs>
   <documents>Document.Документ_Вася</documents>
   <documents>Document.ПриобретениеТоваров</documents>
+  <enums>Enum.Перечисление_Вася</enums>
 </mdclass:Configuration>
