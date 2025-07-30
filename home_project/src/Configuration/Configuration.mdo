@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.Константа_Андрей</constants>
   <constants>Constant.СкладПоУмолчанию</constants>
   <constants>Constant.ТоварПоУмолчанию</constants>
   <catalogs>Catalog.Склады</catalogs>
