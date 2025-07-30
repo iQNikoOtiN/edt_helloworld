@@ -41,6 +41,7 @@
   <constants>Constant.СкладПоУмолчанию</constants>
   <constants>Constant.ТоварПоУмолчанию</constants>
   <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Справочник_Вяся</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <catalogs>Catalog.ФизическиеЛица</catalogs>
   <documents>Document.ПриобретениеТоваров</documents>
