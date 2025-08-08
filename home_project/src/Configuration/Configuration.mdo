@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <constants>Constant.Константа_Андрей</constants>
   <constants>Constant.СкладПоУмолчанию</constants>
   <constants>Constant.ТоварПоУмолчанию</constants>
@@ -50,4 +51,5 @@
   <enums>Enum.Перечисление_Вася</enums>
   <reports>Report.МойОтчет1</reports>
   <reports>Report.МойОтчет2</reports>
+  <reports>Report.Отчет3</reports>
 </mdclass:Configuration>

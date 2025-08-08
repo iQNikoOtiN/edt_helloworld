@@ -7,29 +7,45 @@
 	<dataSet xsi:type="DataSetQuery">
 		<name>НаборДанных1</name>
 		<field xsi:type="DataSetFieldField">
+			<dataPath>Ссылка</dataPath>
+			<field>Ссылка</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
 			<dataPath>ВерсияДанных</dataPath>
 			<field>ВерсияДанных</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>ПометкаУдаления</dataPath>
+			<field>ПометкаУдаления</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
+			<dataPath>Номер</dataPath>
+			<field>Номер</field>
 		</field>
 		<field xsi:type="DataSetFieldField">
 			<dataPath>Дата</dataPath>
 			<field>Дата</field>
 		</field>
 		<field xsi:type="DataSetFieldField">
+			<dataPath>Проведен</dataPath>
+			<field>Проведен</field>
+		</field>
+		<field xsi:type="DataSetFieldField">
 			<dataPath>МоментВремени</dataPath>
 			<field>МоментВремени</field>
 		</field>
-		<field xsi:type="DataSetFieldField">
-			<dataPath>Номер</dataPath>
-			<field>Номер</field>
-		</field>
 		<dataSource>ИсточникДанных1</dataSource>
 		<query>ВЫБРАТЬ
-	Документ_Вася.ВерсияДанных,
-	Документ_Вася.Дата,
-	Документ_Вася.МоментВремени,
-	Документ_Вася.Номер
+	ПриобретениеТоваров.Ссылка,
+	ПриобретениеТоваров.ВерсияДанных,
+	ПриобретениеТоваров.ПометкаУдаления,
+	ПриобретениеТоваров.Номер,
+	ПриобретениеТоваров.Дата,
+	ПриобретениеТоваров.Проведен,
+	ПриобретениеТоваров.Представление,
+	ПриобретениеТоваров.МоментВремени
 ИЗ
-	Документ.Документ_Вася КАК Документ_Вася</query>
+	Документ.ПриобретениеТоваров КАК ПриобретениеТоваров</query>
 	</dataSet>
 	<settingsVariant>
 		<dcsset:name>Основной</dcsset:name>
