@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.ОсновнаяПодсистема</subsystems>
   <constants>Constant.Константа_Андрей</constants>
   <constants>Constant.СкладПоУмолчанию</constants>
   <constants>Constant.ТоварПоУмолчанию</constants>
@@ -48,4 +49,5 @@
   <documents>Document.Документ_Вася</documents>
   <documents>Document.ПриобретениеТоваров</documents>
   <enums>Enum.Перечисление_Вася</enums>
+  <reports>Report.Отчет</reports>
 </mdclass:Configuration>
