@@ -58,4 +58,5 @@
   <reports>Report.Отчет3</reports>
   <reports>Report.ОтчетРасчетСебестоимости</reports>
   <reports>Report.РеестрПриходныхОрдеров</reports>
+  <reports>Report.РеестрРасходныхОрдеров</reports>
 </mdclass:Configuration>

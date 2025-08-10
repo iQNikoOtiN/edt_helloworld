@@ -10,4 +10,5 @@
   <content>Report.Отчет</content>
   <content>Report.ОтчетРасчетСебестоимости</content>
   <content>Report.РеестрПриходныхОрдеров</content>
+  <content>Report.РеестрРасходныхОрдеров</content>
 </mdclass:Subsystem>

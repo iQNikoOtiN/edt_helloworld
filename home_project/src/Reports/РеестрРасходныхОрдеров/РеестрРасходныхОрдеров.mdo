@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="376bb13d-f4e1-462c-b892-18633cc509a3">
+  <producedTypes>
+    <objectType typeId="4d9daacc-25e8-4c48-8307-8a0a05e74fd4" valueTypeId="e0413568-6d46-4a09-9159-3a4aa1420d5b"/>
+    <managerType typeId="2699eef0-77e4-4630-9d89-41a73c3b0773" valueTypeId="71219718-24ed-407d-8dca-ddf530e5c452"/>
+  </producedTypes>
+  <name>РеестрРасходныхОрдеров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Реестр расходных ордеров</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.РеестрРасходныхОрдеров.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="642bcdc5-b672-478c-87be-ab1322fd9fae">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
