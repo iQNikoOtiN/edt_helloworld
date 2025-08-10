@@ -38,8 +38,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <commonModules>CommonModule.ОбщийМодуль</commonModules>
+  <subsystems>Subsystem.ДополнительнаяПодсистема</subsystems>
   <subsystems>Subsystem.ОсновнаяПодсистема</subsystems>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <constants>Constant.Константа_Андрей</constants>
   <constants>Constant.СкладПоУмолчанию</constants>
   <constants>Constant.ТоварПоУмолчанию</constants>
@@ -49,9 +50,11 @@
   <catalogs>Catalog.ФизическиеЛица</catalogs>
   <documents>Document.Документ_Вася</documents>
   <documents>Document.ПриобретениеТоваров</documents>
+  <documents>Document.РасчетСебестоимости</documents>
   <enums>Enum.Перечисление_Вася</enums>
-  <reports>Report.Отчет</reports>
   <reports>Report.МойОтчет1</reports>
   <reports>Report.МойОтчет2</reports>
+  <reports>Report.Отчет</reports>
   <reports>Report.Отчет3</reports>
+  <reports>Report.ОтчетРасчетСебестоимости</reports>
 </mdclass:Configuration>

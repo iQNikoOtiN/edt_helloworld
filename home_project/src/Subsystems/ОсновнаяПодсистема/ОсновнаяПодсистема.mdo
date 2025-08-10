@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Report.Отчет</content>
+  <content>Report.ОтчетРасчетСебестоимости</content>
 </mdclass:Subsystem>
