@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="73ac617b-070a-4c64-95ad-b22291a8b313">
+  <producedTypes>
+    <objectType typeId="d805fca2-daa3-498c-8bb7-3c8bd8a897b4" valueTypeId="06f689b0-b2cd-41ca-b44c-cae2846ebf63"/>
+    <managerType typeId="7f9902e6-9d56-459e-b085-ffa8acda49aa" valueTypeId="c05a4559-bb84-4954-aefb-84c0ed4b3e7d"/>
+  </producedTypes>
+  <name>РеестрПриходныхОрдеров</name>
+  <synonym>
+    <key>ru</key>
+    <value>Реестр приходных ордеров</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.РеестрПриходныхОрдеров.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="9acf8adc-fb85-48d9-81e3-e71d5852676d">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>

@@ -9,4 +9,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Report.Отчет</content>
   <content>Report.ОтчетРасчетСебестоимости</content>
+  <content>Report.РеестрПриходныхОрдеров</content>
 </mdclass:Subsystem>

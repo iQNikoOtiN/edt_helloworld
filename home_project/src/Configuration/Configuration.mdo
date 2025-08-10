@@ -57,4 +57,5 @@
   <reports>Report.Отчет</reports>
   <reports>Report.Отчет3</reports>
   <reports>Report.ОтчетРасчетСебестоимости</reports>
+  <reports>Report.РеестрПриходныхОрдеров</reports>
 </mdclass:Configuration>
