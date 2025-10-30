@@ -11,4 +11,5 @@
   <content>Report.ОтчетРасчетСебестоимости</content>
   <content>Report.РеестрПриходныхОрдеров</content>
   <content>Report.РеестрРасходныхОрдеров</content>
+  <content>Catalog.Валюта</content>
 </mdclass:Subsystem>
