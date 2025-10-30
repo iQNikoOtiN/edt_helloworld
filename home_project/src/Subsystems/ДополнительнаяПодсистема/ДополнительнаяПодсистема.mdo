@@ -8,4 +8,5 @@
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Document.РасчетСебестоимости</content>
+  <content>Catalog.Контрагенты</content>
 </mdclass:Subsystem>
