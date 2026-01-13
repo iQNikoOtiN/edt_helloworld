@@ -40,6 +40,7 @@
   </languages>
   <subsystems>Subsystem.ДополнительнаяПодсистема</subsystems>
   <subsystems>Subsystem.ОсновнаяПодсистема</subsystems>
+  <commonModules>CommonModule.ОбщегоНазанчения</commonModules>
   <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <constants>Constant.Константа_Андрей</constants>
   <constants>Constant.СкладПоУмолчанию</constants>
